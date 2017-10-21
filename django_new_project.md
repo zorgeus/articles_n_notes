@@ -1,5 +1,3 @@
-<div class="editable-original">
-
 #### **![](https://i.imgur.com/ToTcQml.png)**
 
 #### **Prerequisites**
@@ -64,5 +62,3 @@ Now you can press Ctrl + C to stop your Django server.
 So now we have an empty Django server!
 
 In the next step we'll add some app.
-
-</div>
