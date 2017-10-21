@@ -18,7 +18,7 @@ Write in the console
 ```
 django-admin startproject <sitename>
 ```
-,where <sitename> is the name of your future site.
+,where `<sitename>` is the name of your future site.
 
 ![](https://i.imgur.com/jD3GZxO.png)
 
@@ -28,7 +28,7 @@ Check that site is successfully created in a chosen folder
 
 Open console again and change directory to the <sitename> :
 
-cd <sitename>
+```cd <sitename>```
 
 ![](https://i.imgur.com/5mxCNlV.png)
 
