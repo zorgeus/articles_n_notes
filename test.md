@@ -1,5 +1,4 @@
-<div>
- ![](<http://i.imgur.com/2tou8Jo.jpg>)
+![](<http://i.imgur.com/2tou8Jo.jpg>)
 
 So if we want to group all our products by manufacturer and show how many there is products of each manufacturer we can use:
 
@@ -478,5 +477,3 @@ Result:
 Result after the second stage:
 
 ![](<https://i.imgur.com/yNdWfFC.png>)
-
-</div>
